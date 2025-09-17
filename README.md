@@ -92,7 +92,3 @@ The project uses the **ASQA (Ambiguous Questions with Short Answers)** dataset:
 3. **Error Detection**: The system successfully identifies factual contradictions while maintaining high precision.
 
 4. **Statistical Validation**: All major findings are statistically significant with proper multiple comparison corrections.
-
-## Contact
-
-For questions or collaboration opportunities, please reach out via [email] or create an issue in this repository.
